@@ -1,0 +1,15 @@
+F:\C#\Create-A-Quiz-Assignment\bin\Debug\net7.0\Create-A-Quiz-Assignment.exe
+F:\C#\Create-A-Quiz-Assignment\bin\Debug\net7.0\Create-A-Quiz-Assignment.deps.json
+F:\C#\Create-A-Quiz-Assignment\bin\Debug\net7.0\Create-A-Quiz-Assignment.runtimeconfig.json
+F:\C#\Create-A-Quiz-Assignment\bin\Debug\net7.0\Create-A-Quiz-Assignment.dll
+F:\C#\Create-A-Quiz-Assignment\bin\Debug\net7.0\Create-A-Quiz-Assignment.pdb
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\Create-A-Quiz-Assignment.csproj.AssemblyReference.cache
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\Create-A-Quiz-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\Create-A-Quiz-Assignment.AssemblyInfoInputs.cache
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\Create-A-Quiz-Assignment.AssemblyInfo.cs
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\Create-A-Quiz-Assignment.csproj.CoreCompileInputs.cache
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\Create-A-Quiz-Assignment.dll
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\refint\Create-A-Quiz-Assignment.dll
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\Create-A-Quiz-Assignment.pdb
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\Create-A-Quiz-Assignment.genruntimeconfig.cache
+F:\C#\Create-A-Quiz-Assignment\obj\Debug\net7.0\ref\Create-A-Quiz-Assignment.dll
